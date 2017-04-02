@@ -1,0 +1,5 @@
+C:\Repositories\GitHub\DesignPatterns\DesignPatternSamples\CreationalPatterns.AbstractFactory\bin\Debug\CreationalPatterns.AbstractFactory.exe.config
+C:\Repositories\GitHub\DesignPatterns\DesignPatternSamples\CreationalPatterns.AbstractFactory\bin\Debug\CreationalPatterns.AbstractFactory.exe
+C:\Repositories\GitHub\DesignPatterns\DesignPatternSamples\CreationalPatterns.AbstractFactory\bin\Debug\CreationalPatterns.AbstractFactory.pdb
+C:\Repositories\GitHub\DesignPatterns\DesignPatternSamples\CreationalPatterns.AbstractFactory\obj\Debug\CreationalPatterns.AbstractFactory.exe
+C:\Repositories\GitHub\DesignPatterns\DesignPatternSamples\CreationalPatterns.AbstractFactory\obj\Debug\CreationalPatterns.AbstractFactory.pdb
