@@ -1,8 +1,7 @@
 # DesignPatterns - [C# Design Pattern Essentials](https://www.amazon.com/gp/product/0956575862/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0956575862&linkCode=as2&tag=hany89-20&linkId=65a7da91cad94f600a6e4b21c60f1617)
 
 ### [CREATIONAL PATTERNS](https://github.com/KaniPark/DesignPatterns/wiki/Creational-Patterns)
-- Abstract Factory
-- [Abstract Factory](../blob/master/DesignPatternSamples/CreationalPatterns.AbstractFactory) : Provide an interface for creating families of related or dependent objects without specifying thier concrete classes.
+- [Abstract Factory](../master/DesignPatternSamples/CreationalPatterns.AbstractFactory) : Provide an interface for creating families of related or dependent objects without specifying thier concrete classes.
 - Builder
 - Factory Method
 - Prototype
