@@ -2,6 +2,7 @@
 
 ### [CREATIONAL PATTERNS](https://github.com/KaniPark/DesignPatterns/wiki/Creational-Patterns)
 - Abstract Factory
+- [Abstract Factory](../blob/master/DesignPatternSamples/CreationalPatterns.AbstractFactory) : Provide an interface for creating families of related or dependent objects without specifying thier concrete classes.
 - Builder
 - Factory Method
 - Prototype
