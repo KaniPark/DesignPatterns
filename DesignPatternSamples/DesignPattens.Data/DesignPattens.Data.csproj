@@ -4,16 +4,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6336A34F-E6F0-4F34-9108-99A7DFB5DB84}</ProjectGuid>
-    <OutputType>Exe</OutputType>
-    <RootNamespace>CreationalPatterns.AbstractFactory</RootNamespace>
-    <AssemblyName>CreationalPatterns.AbstractFactory</AssemblyName>
+    <ProjectGuid>{74370702-0164-4A7D-990F-0FC11B72141E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DesignPattens.Data</RootNamespace>
+    <AssemblyName>DesignPattens.Data</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -23,7 +22,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -42,23 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="_Factory\AbstractVehicleFactory.cs" />
-    <Compile Include="_Factory\CarFactory.cs" />
-    <Compile Include="_Factory\VanFactory.cs" />
-    <Compile Include="_Glassware\CarGlassware.cs" />
-    <Compile Include="_Glassware\VanGlassware.cs" />
-    <Compile Include="_Chassis\CarChassis.cs" />
-    <Compile Include="_Chassis\VanChassis.cs" />
-    <Compile Include="_Body\CarBody.cs" />
-    <Compile Include="_Body\IBody.cs" />
-    <Compile Include="_Chassis\IChassis.cs" />
-    <Compile Include="_Glassware\IGlassware.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="IVehicle.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="_Body\VanBody.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -3,3 +3,4 @@ C:\Repositories\GitHub\DesignPatterns\DesignPatternSamples\CreationalPatterns.Ab
 C:\Repositories\GitHub\DesignPatterns\DesignPatternSamples\CreationalPatterns.AbstractFactory\bin\Debug\CreationalPatterns.AbstractFactory.pdb
 C:\Repositories\GitHub\DesignPatterns\DesignPatternSamples\CreationalPatterns.AbstractFactory\obj\Debug\CreationalPatterns.AbstractFactory.exe
 C:\Repositories\GitHub\DesignPatterns\DesignPatternSamples\CreationalPatterns.AbstractFactory\obj\Debug\CreationalPatterns.AbstractFactory.pdb
+C:\Repositories\GitHub\DesignPatterns\DesignPatternSamples\CreationalPatterns.AbstractFactory\obj\Debug\CreationalPatterns.AbstractFactory.csprojResolveAssemblyReference.cache

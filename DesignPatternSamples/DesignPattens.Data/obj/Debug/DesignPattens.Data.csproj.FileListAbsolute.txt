@@ -1,0 +1,5 @@
+C:\Repositories\GitHub\DesignPatterns\DesignPatternSamples\DesignPattens.Data\bin\Debug\DesignPattens.Data.dll
+C:\Repositories\GitHub\DesignPatterns\DesignPatternSamples\DesignPattens.Data\bin\Debug\DesignPattens.Data.pdb
+C:\Repositories\GitHub\DesignPatterns\DesignPatternSamples\DesignPattens.Data\obj\Debug\DesignPattens.Data.csprojResolveAssemblyReference.cache
+C:\Repositories\GitHub\DesignPatterns\DesignPatternSamples\DesignPattens.Data\obj\Debug\DesignPattens.Data.dll
+C:\Repositories\GitHub\DesignPatterns\DesignPatternSamples\DesignPattens.Data\obj\Debug\DesignPattens.Data.pdb
