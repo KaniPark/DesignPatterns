@@ -40,8 +40,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="_Car\Coupe.cs" />
+    <Compile Include="_Car\Sport.cs" />
+    <Compile Include="_Car\Saloon.cs" />
+    <Compile Include="_Van\AbstractVan.cs" />
+    <Compile Include="_Car\AbstractCar.cs" />
+    <Compile Include="AbstractVehicle.cs" />
+    <Compile Include="VehicleColor.cs" />
+    <Compile Include="_Engine\AbstractEngine.cs" />
+    <Compile Include="_Engine\IEngine.cs" />
     <Compile Include="IVehicle.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="_Engine\StandardEngine.cs" />
+    <Compile Include="_Engine\TurboEngine.cs" />
+    <Compile Include="_Van\Pickup.cs" />
+    <Compile Include="_Van\BoxVan.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

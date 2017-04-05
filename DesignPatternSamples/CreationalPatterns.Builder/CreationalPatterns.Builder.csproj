@@ -44,9 +44,21 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="_Director\VanDirector.cs" />
+    <Compile Include="_Director\CarDirector.cs" />
+    <Compile Include="_Director\VehicleDirector.cs" />
+    <Compile Include="_Builder\VanBuilder.cs" />
+    <Compile Include="_Builder\CarBuilder.cs" />
+    <Compile Include="_Builder\VehicleBuilder.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DesignPattens.Data\DesignPattens.Data.csproj">
+      <Project>{74370702-0164-4a7d-990f-0fc11b72141e}</Project>
+      <Name>DesignPattens.Data</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

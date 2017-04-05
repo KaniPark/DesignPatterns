@@ -9,22 +9,16 @@ namespace DesignPattens.Data
     /// <summary>
     /// 
     /// </summary>
-    public interface IVehicle
+    public interface IEngine
     {
         /// <summary>
         /// 
         /// </summary>
-        IEngine Engine { get; }
+        int Size { get; }
 
         /// <summary>
         /// 
         /// </summary>
-        VehicleColor Color { get; }
-
-        /// <summary>
-        /// 
-        /// </summary>
-        /// <param name="color"></param>
-        void Paint(VehicleColor color);
+        bool Turbo { get; }
     }
 }

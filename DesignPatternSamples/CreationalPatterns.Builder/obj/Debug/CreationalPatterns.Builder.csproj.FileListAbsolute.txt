@@ -1,0 +1,8 @@
+C:\Repositories\GitHub\DesignPatterns\DesignPatternSamples\CreationalPatterns.Builder\bin\Debug\CreationalPatterns.Builder.exe.config
+C:\Repositories\GitHub\DesignPatterns\DesignPatternSamples\CreationalPatterns.Builder\bin\Debug\CreationalPatterns.Builder.exe
+C:\Repositories\GitHub\DesignPatterns\DesignPatternSamples\CreationalPatterns.Builder\bin\Debug\CreationalPatterns.Builder.pdb
+C:\Repositories\GitHub\DesignPatterns\DesignPatternSamples\CreationalPatterns.Builder\bin\Debug\DesignPattens.Data.dll
+C:\Repositories\GitHub\DesignPatterns\DesignPatternSamples\CreationalPatterns.Builder\bin\Debug\DesignPattens.Data.pdb
+C:\Repositories\GitHub\DesignPatterns\DesignPatternSamples\CreationalPatterns.Builder\obj\Debug\CreationalPatterns.Builder.csprojResolveAssemblyReference.cache
+C:\Repositories\GitHub\DesignPatterns\DesignPatternSamples\CreationalPatterns.Builder\obj\Debug\CreationalPatterns.Builder.exe
+C:\Repositories\GitHub\DesignPatterns\DesignPatternSamples\CreationalPatterns.Builder\obj\Debug\CreationalPatterns.Builder.pdb

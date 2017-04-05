@@ -9,22 +9,25 @@ namespace DesignPattens.Data
     /// <summary>
     /// 
     /// </summary>
-    public interface IVehicle
+    public class Saloon : AbstractCar
     {
         /// <summary>
         /// 
         /// </summary>
-        IEngine Engine { get; }
+        /// <param name="engine"></param>
+        public Saloon(IEngine engine)
+            : base(engine)
+        {
+        }
 
         /// <summary>
         /// 
         /// </summary>
-        VehicleColor Color { get; }
-
-        /// <summary>
-        /// 
-        /// </summary>
+        /// <param name="engine"></param>
         /// <param name="color"></param>
-        void Paint(VehicleColor color);
+        public Saloon(IEngine engine, VehicleColor color)
+            : base(engine, color)
+        {
+        }
     }
 }
