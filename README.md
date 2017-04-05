@@ -2,7 +2,7 @@
 
 ### CREATIONAL PATTERNS
 - [Abstract Factory](../master/DesignPatternSamples/CreationalPatterns.AbstractFactory) : Provide an interface for creating families of related or dependent objects without specifying thier concrete classes.
-- Builder
+- [Builder](../master/DesignPatternSamples/CreationalPatterns.Builder) : Separate the construction of a comoplex object from its representation so that the same construction process can create different representations.
 - Factory Method
 - Prototype
 - Singleton
